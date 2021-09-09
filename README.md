@@ -1,6 +1,6 @@
-# Code-Challenge-Review-
+# Code Challenge Review
 
-Review of:
+**Review of:**
 - Pandas
 - Data Visualizations
 - Exploratory Statistics
